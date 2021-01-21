@@ -17,3 +17,16 @@
 * Only 1 print statement in console output - just the final total and not every step of the calculation.
 
 * Use the range() function in the solution.
+
+# Fizz Buzz
+
+* This is popular interview test question based on a children's game.
+
+* Firstly, the program will print each number from 1 to 100.
+
+* However, when the number is divisible by 3 then instead of printing the number it should print "Fizz".
+
+* But, when the number is divisible by 5, then instead of printing the number it should print "Buzz".` 
+
+* Also, if the number is divisible by both 3 and 5 e.g. 15 then instead of the number it should print "FizzBuzz"`
+
