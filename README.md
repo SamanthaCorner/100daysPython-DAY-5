@@ -22,11 +22,17 @@
 
 * This is popular interview test question based on a children's game.
 
-* Firstly, the program will print each number from 1 to 100.
+* Effectively the program will print each number from 1 to 100 on a separate line ...
 
 * However, when the number is divisible by 3 then instead of printing the number it should print "Fizz".
 
 * But, when the number is divisible by 5, then instead of printing the number it should print "Buzz".` 
 
 * Also, if the number is divisible by both 3 and 5 e.g. 15 then instead of the number it should print "FizzBuzz"`
+
+# Password Generator
+
+* A program to generate a random password consisting of letters, symbols and numbers based on user input.
+
+* This gives the user control of how long the password will be and how many letters, symbols and numbers they want.
 
