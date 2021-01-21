@@ -26,9 +26,9 @@
 
 * However, when the number is divisible by 3 then instead of printing the number it should print "Fizz".
 
-* But, when the number is divisible by 5, then instead of printing the number it should print "Buzz".` 
+* But, when the number is divisible by 5, then instead of printing the number it should print "Buzz".
 
-* Also, if the number is divisible by both 3 and 5 e.g. 15 then instead of the number it should print "FizzBuzz"`
+* Also, if the number is divisible by both 3 and 5 e.g. 15 then instead of the number it should print "FizzBuzz"
 
 # Password Generator
 
