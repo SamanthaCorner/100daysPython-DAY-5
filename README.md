@@ -10,3 +10,10 @@
 
 * For in range loop used to store the highest score and display using f-string
 
+# Adding Evens
+
+* A program that calculates the sum of all the even numbers from 1 to 100, including 2 and 100.
+
+* Only 1 print statement in console output - just the final total and not every step of the calculation.
+
+* Use the range() function in the solution.
